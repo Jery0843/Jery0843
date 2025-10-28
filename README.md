@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&font=Orbitron&fontColor=ffffff&text=Jerome%20Andrew%20K&height=200&fontSize=80&color=gradient&customColorList=6,11,20&animation=twinkling&fontAlignY=35&desc=OFFENSIVE%20SECURITY%20SPECIALIST&descAlignY=55&descAlign=50&descSize=20"
+  src="https://capsule-render.vercel.app/api?type=waving&font=Poppins&fontColor=ffffff&text=Jerome%20Andrew%20K&height=200&fontSize=80&color=gradient&customColorList=6,11,20&animation=twinkling&fontAlignY=35&desc=OFFENSIVE%20SECURITY%20SPECIALIST&descAlignY=55&descAlign=50&descSize=20"
   alt="Jerome Andrew K - Offensive Security Specialist"
   style="display:block;margin:0 auto;"
   loading="lazy"
