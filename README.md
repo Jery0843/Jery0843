@@ -71,6 +71,20 @@
 
 <div align="center">
 
+### 🐍 CONTRIBUTION GRAPH
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jery0843/Jery0843/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jery0843/Jery0843/output/github-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jery0843/Jery0843/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
 ### 🎯 FEATURED REPOSITORIES
 
 <a href="https://github.com/Jery0843/HackTheBox">
@@ -124,3 +138,56 @@
 </div>
 
 ---
+
+## 🔧 Setup Instructions
+
+### Enable Snake Animation:
+
+1. Create `.github/workflows/snake.yml` in your repository:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Go to **Settings → Actions → General** in your repository
+3. Under "Workflow permissions", select **Read and write permissions**
+4. Click **Save**
+5. Go to **Actions** tab → **Generate Snake Animation** → **Run workflow**
+
+The snake will appear within a few minutes! 🐍
