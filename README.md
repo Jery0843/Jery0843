@@ -4,6 +4,8 @@
 
 </div>
 
+<p align="center">
+
 ```ascii
 ╔═══════════════════════════════════════════════════════════╗
 ║  [●] STATUS: ONLINE & HUNTING                             ║
@@ -11,6 +13,8 @@
 ║  [●] FOCUS: HackTheBox Machines | Bug Bounty              ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
+
+</p>
 
 <div align="center">
 
@@ -61,10 +65,6 @@
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jery0843&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FFD9&icon_color=FF006E&text_color=ffffff&border_radius=10"/>
 <img height="180" src="https://streak-stats.demolab.com?user=Jery0843&theme=dark&hide_border=true&background=0d1117&ring=00FFD9&fire=FF006E&currStreakLabel=00FFD9&sideNums=ffffff&currStreakNum=00FFD9&dates=888888&border_radius=10"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jery0843&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
-
 </div>
 
 ---
@@ -78,8 +78,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jery0843/Jery0843/output/github-snake.svg"/>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jery0843/Jery0843/output/github-snake-dark.svg"/>
 </picture>
-
-> ⚠️ **Note:** Snake animation will appear after you run the GitHub Action workflow (see setup instructions below)
 
 </div>
 
