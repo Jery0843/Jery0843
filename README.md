@@ -1,101 +1,128 @@
 <!-- ===================================================== -->
-<!-- Jerome Andrew K — Cyber–Matrix Professional README -->
+<!-- JEROME ANDREW K — ULTIMATE CYBERPROFILE (Matrix × Neural) -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<!-- Futuristic header with matrix + glitch neon animation -->
-<img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=220&section=header&text=Jerome%20Andrew%20K&fontSize=60&fontColor=0d0f12&animation=twinkling" />
+<!-- Cinematic Glitch + Neural Header -->
+<img alt="glitch-header" src="https://capsule-render.vercel.app/api?type=rounded&height=240&section=header&text=Jerome%20Andrew%20K&fontSize=64&color=0d0f12&fontColor=00ff99&animation=glitch" />
 
+<!-- Typing + Subline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=800&color=18FF9A&width=600&lines=Cybersecurity+Architect+%7C+Data+Guardian;Penetration+Tester+%7C+AI+Enthusiast;Digital+Ghost+in+the+Matrix;Crafting+Defense+Through+Offense" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00ff99&width=820&lines=%F0%9F%94%90+Digital+Ghost+in+the+Matrix+%7C+AI+Neural+Guard;%F0%9F%94%92+Hunt+%7C+Exploit+%7C+Harden;Crafting+defense+with+%3Ccode%3E+and+algorithms" alt="typing" />
 </p>
 
-<img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="100%" style="border-radius:12px;opacity:0.9;object-fit:cover;" />
+<!-- Dual-layer Matrix Rain (top subtle) -->
+<img src="https://media.giphy.com/media/3o7aD7dA6KJb1cKjQc/giphy.gif" alt="matrix-rain-top" width="100%" style="max-height:120px;object-fit:cover;border-radius:10px;opacity:0.9;" />
 
 </div>
 
 ---
 
-# 🧠 About Me
-**Cybersecurity & AI Researcher | Penetration Tester | Data Defender**  
-Turning code into shields, and exploits into lessons.  
-I believe every system can be fortified, every vulnerability can teach, and every byte can have beauty.
+# ⚡ Jerome Andrew K — Cyber‑Hacker × Neural Architect
+**Terminal energy • Matrix rain • AI-driven security**  
+I build automated defenses, weaponize curiosity, and write PoCs that teach systems to be better.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-00ff99?style=for-the-badge&logo=Hackaday&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI%20Research-0A66C2?style=for-the-badge&logo=OpenAI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-ff00ff?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=Jery0843&label=Visitors&color=00ff99&style=for-the-badge" />
+  <!-- Neon badges -->
+  <a href="https://jerome.co.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-jerome.co.in-00ff99?style=for-the-badge&logo=About.me&logoColor=000" alt="portfolio" /></a>
+  <a href="https://linkedin.com/in/jerome-andrew-k-093b2620a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Jery0843&label=Profile%20Views&color=00ff99&style=for-the-badge" alt="views" />
 </div>
 
 ---
 
-## ⚔️ My Arsenal
+## 🧠 Dual Aesthetic — Matrix + Neural
+This profile mixes:
+- **Matrix / Terminal**: falling glyphs, monospaced vibes, glitch typography.  
+- **Neural / AI**: animated circuit brain, pulse indicators, data-flow visuals.  
+
+### Visual features you'll notice
+- Layered animated banners (matrix rain + neural pulse)  
+- Smooth synthwave stats panels  
+- Animated typing lines and rotating micro-gadgets (GIFs)  
+- ASCII-art signature + terminal-style snippet
+
+---
+
+## 🛠️ Arsenal — Neon Terminal Grid
 <div align="center">
-
-| Languages | Tools | Domains |
-|------------|--------|----------|
-| Python 🐍 | Burp Suite, Wireshark, Nmap | Web Exploitation |
-| Bash 💻 | Metasploit, Volatility, Ligolo-ng | Reverse Engineering |
-| PowerShell ⚙️ | AD Recon, Impacket | Red Team Ops |
-| React ⚡ | Flask, APIs | Secure App Dev |
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
 ---
 
-## 🚀 Matrix Stats & Activity
+## 🎯 Specialties
+- Offensive security & exploit development  
+- Active Directory & Windows red-team techniques  
+- Memory forensics & malware analysis  
+- CTF writeups — clear PoCs with remediation steps  
+- AI-driven anomaly detection & automation
 
+---
+
+## ⚡ Animated Neural Panel (GIF + SVG)
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jery0843&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0f12" height="165" />
-<img src="https://github-readme-streak-stats.demolab.com?user=Jery0843&theme=synthwave&hide_border=true&background=0d0f12" height="165" />
-
+  <!-- Animated neural brain GIF -->
+  <img src="https://media.giphy.com/media/8YZb4xg7B2jQm2zYOM/giphy.gif" alt="neural-brain" width="280" style="border-radius:12px;" />
+  <!-- Small animated circuit divider -->
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" alt="circuit" width="420" style="border-radius:8px;opacity:0.95;" />
 </div>
+
+---
+
+## 🚀 Live Matrix Stats (Synthwave Theme)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jery0843&show_icons=true&theme=react&hide_border=true&bg_color=0d0f12" height="150" alt="stats" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=Jery0843&theme=react&hide_border=true&background=0d0f12" height="150" alt="streak" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jery0843&theme=react-dark&bg_color=0d0f12&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jery0843&theme=react-dark&bg_color=0d0f12&area=true&hide_border=true" alt="activity" />
 </p>
 
 ---
 
-## 🧩 Projects & Writeups
-- [HackTheBox Chronicles](https://jerome.co.in/projects) — Exploits, scripts, and mitigation insights.  
-- [0xJerry Lab](https://0xjerry.jerome.co.in) — Experimental tools for real-world pentests.  
-- [AI x Security](https://jerome.co.in) — Exploring defense automation and anomaly intelligence.
+## 🧪 Featured Projects (click to open)
+- [HackTheBox: Root Chronicles](https://jerome.co.in/projects) — Full writeups, PoCs, and remediation.  
+- [0xJerry Lab](https://0xjerry.jerome.co.in) — Tools & experimental exploits (ethically used).  
+- [Secure AI Ops](https://jerome.co.in) — Small automations that find and fix security smells.
 
 ---
 
-## 🏆 Achievements
-CEH Certified ▪ HackTheBox Veteran ▪ TryHackMe Top 1% ▪ Cyber Research Publications
+## 🔰 Terminal Signature (copyable)
+```
+$ whoami
+jerome
+$ cat /etc/motd
+Welcome to the Matrix_JW — stay curious, stay secure.
+```
+---
+
+## ✨ Cinematic Footer — Matrix Rain + Neon Pulse
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100" style="border-radius:8px;opacity:0.95;" />
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00ff99&width=420&lines=Keep+Learning;+Keep+Hacking;+Stay+Secure+%F0%9F%94%90" alt="keep-hacking" />
+  </p>
+</div>
 
 ---
 
-## 🌌 Quote of the Day
+## 🛠 How to make it EVEN WOW
+- Host a custom animated GIF (rotating 3D logo, longer neural animation) in your repo and swap the GIF URLs.  
+- Add a small demo page on your portfolio with WebGL for full interactivity (link it from README).  
+- Replace any GIF with a self-hosted one for consistent style and no watermarking.
+
+---
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=synthwave" alt="quote" />
+  <sup>Profile generated with ❤️ for Jerome Andrew K — copy into your repo <code>Jery0843/Jery0843</code> as <code>README.md</code></sup>
 </p>
 
----
-
-## 🔗 Connect with Me
-<div align="center">
-  <a href="https://jerome.co.in"><img src="https://img.shields.io/badge/Portfolio-jerome.co.in-00ff99?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/jerome-andrew-k-093b2620a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://discord.com/users/1408916757069959231"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</div>
-
----
-
-## 🌐 Futuristic Footer
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=120&section=footer" />
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=18FF9A&width=480&lines=Keep+Learning,+Keep+Hacking,+Stay+Secure!" />
-</div>
-
-<!-- ===================================================== -->
-<!-- END README -->
-<!-- ===================================================== -->
+<!-- ========== END ========== -->
