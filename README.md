@@ -1,62 +1,107 @@
-<!-- ===================================================== -->
-<!-- JEROME ANDREW K — SHORT, ANIMATED & INTERACTIVE READme -->
-<!-- Ultra-compact — big visuals, max motion, minimal text -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<!-- Massive Neon Glitch Title -->
-<img src="https://capsule-render.vercel.app/api?type=3d&color=00ff99&height=200&section=header&text=Jerome%20Andrew%20K&fontSize=70&fontColor=0d0f12&animation=glitch" alt="Jerome Andrew K" />
-
-<!-- Rapid typing tagline (short) -->
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=18FF9A&width=760&lines=Digital+Ghost+⚡+|+AI+Neural+Guardian;Fast+PoCs,+Clean+Fixes" alt="typing" />
-</p>
-
-<!-- Full-width Matrix shimmer -->
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" style="max-height:120px;object-fit:cover;border-radius:10px;opacity:0.95;" alt="matrix" />
+![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Jerome%20Andrew%20K&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Pentester%20%7C%20CTF%20Player%20%7C%20Bug%20Hunter&descAlignY=55&descSize=25)
 
 </div>
 
----
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey%2C+I'm+0xJerry+%F0%9F%91%8B;Offensive+Security+%7C+Red+Teamer;Chasing+Root+One+Box+at+a+Time" alt="Typing SVG" />
+</h1>
 
-<div align="center">
-
-<!-- 3 core pillars (big icons + one-line) -->
-<img src="https://img.shields.io/badge/⚡+Exploit-Quick+PoCs-00ff99?style=for-the-badge" />&nbsp;
-<img src="https://img.shields.io/badge/🛡+Harden-Fixes+That+Last-00FFFF?style=for-the-badge" />&nbsp;
-<img src="https://img.shields.io/badge/🤖+AI-Auto+Detect-FF00FF?style=for-the-badge" />
-
-</div>
-
----
-
-## ⚡ Quick Glance (Read in 6s)
-- **Top skills:** Python · Bash · AD · Forensics (hover icons below)  
-- **Top repos:** Root-POCs · HTB-Walkthroughs · Secure-Utils (click to open)  
-- **Contact:** [Portfolio](https://jerome.co.in) · [LinkedIn](https://linkedin.com/in/jerome-andrew-k-093b2620a) · Discord
-
-<div align="center">
-  <!-- Live compact widgets -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Jery0843&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0f12" height="120" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=Jery0843&theme=synthwave&hide_border=true&background=0d0f12" height="120" />
-</div>
-
----
-
-## 🔥 Animated Skill Grid
 <p align="center">
-<img src="https://img.shields.io/badge/Python-🐍-3776AB?style=for-the-badge&logo=python" alt="python"/> <img src="https://img.shields.io/badge/Bash-💻-4EAA25?style=for-the-badge&logo=gnu-bash" alt="bash"/> <img src="https://img.shields.io/badge/Metasploit-🧰-2596CD?style=for-the-badge" alt="msf"/> <img src="https://img.shields.io/badge/Wireshark-🔍-1679A7?style=for-the-badge" alt="wireshark"/>
+  <a href="https://jerome.co.in"><img src="https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://0xjerry.jerome.co.in"><img src="https://img.shields.io/badge/🔬_Lab-FF006E?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/jerome-andrew-k-093b2620a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=Jery0843&icon=5&color=3)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+## 💻 Tech Arsenal
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,kali,react,vscode,git,github,docker,aws,cloudflare&perline=6" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=hack-the-box&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jery0843&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Jery0843&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jery0843&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jery0843&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jery0843/Jery0843/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jery0843/Jery0843/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Jery0843/Jery0843/output/github-snake.svg" />
+</picture>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Jery0843/HackTheBox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jery0843&repo=HackTheBox&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Jery0843/TryHackMe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jery0843&repo=TryHackMe&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Jery0843/0xJerry-s-Lab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jery0843&repo=0xJerry-s-Lab&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 🎯 Platforms
+
+<p align="center">
+  <a href="https://app.hackthebox.com/profile/YOUR_HTB_ID"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /></a>
+  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 </p>
 
 ---
 
 <div align="center">
-  <!-- Minimal footer with neon pulse + mantra -->
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" alt="pulse" />
-  <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=00ff99&width=420&lines=Keep+Learning,+Keep+Hacking,+Stay+Secure" alt="mantra" /></p>
+  
+### ⚡ "Code is poetry. Exploits are art. Defense through offense."
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+
 </div>
 
-<!-- ===================================================== -->
-<!-- End — Copy into Jery0843/Jery0843 as README.md -->
-<!-- ===================================================== -->
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" />
