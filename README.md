@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&fontColor=gradient&text=JEROME%20ANDREW%20K&height=200&fontSize=80&color=gradient&customColorList=6,11,20&animation=twinkling&fontAlignY=35&desc=OFFENSIVE%20SECURITY%20SPECIALIST&descAlignY=55&descAlign=50&descSize=20&fontColor=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&fontColor=gradient&text=0xJerry&height=200&fontSize=80&color=gradient&customColorList=6,11,20&animation=twinkling&fontAlignY=35&desc=OFFENSIVE%20SECURITY%20SPECIALIST&descAlignY=55&descAlign=50&descSize=20&fontColor=gradient"/>
 
 
 
