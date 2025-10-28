@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&fontColor=fff&text=0xJERRY&height=200&fontSize=80&color=gradient&customColorList=6,11,20&animation=twinkling&fontAlignY=35&desc=OFFENSIVE%20SECURITY%20SPECIALIST&descAlignY=55&descAlign=50&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&fontColor=fff&text=Jerome Andrew K&height=200&fontSize=80&color=gradient&customColorList=6,11,20&animation=twinkling&fontAlignY=35&desc=OFFENSIVE%20SECURITY%20SPECIALIST&descAlignY=55&descAlign=50&descSize=20"/>
 
 </div>
 
@@ -18,7 +18,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=00FFD9&center=true&vCenter=true&width=600&lines=⚡+BREAKING+SYSTEMS;🔐+BUILDING+DEFENSES;💻+CODE+IS+POETRY;🎯+EXPLOITS+ARE+ART" alt="Typing Animation"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=800&size=22&duration=3000&pause=1000&color=00FFD9&center=true&vCenter=true&width=600&lines=%E2%9A%A1%20BREAKING%20SYSTEMS;%F0%9F%94%90%20BUILDING%20DEFENSES;%F0%9F%92%BB%20CODE%20IS%20POETRY;%F0%9F%8E%AF%20EXPLOITS%20ARE%20ART"
+  alt="Typing Animation"
+  style="display:block;margin:0 auto;"
+  loading="lazy"
+/>
 
 <br/>
 
@@ -64,20 +69,6 @@
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jery0843&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FFD9&icon_color=FF006E&text_color=ffffff&border_radius=10"/>
 <img height="180" src="https://streak-stats.demolab.com?user=Jery0843&theme=dark&hide_border=true&background=0d1117&ring=00FFD9&fire=FF006E&currStreakLabel=00FFD9&sideNums=ffffff&currStreakNum=00FFD9&dates=888888&border_radius=10"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 CONTRIBUTION GRAPH
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jery0843/Jery0843/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jery0843/Jery0843/output/github-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jery0843/Jery0843/output/github-snake-dark.svg"/>
-</picture>
 
 </div>
 
@@ -138,56 +129,3 @@
 </div>
 
 ---
-
-## 🔧 Setup Instructions
-
-### Enable Snake Animation:
-
-1. Create `.github/workflows/snake.yml` in your repository:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-    - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Go to **Settings → Actions → General** in your repository
-3. Under "Workflow permissions", select **Read and write permissions**
-4. Click **Save**
-5. Go to **Actions** tab → **Generate Snake Animation** → **Run workflow**
-
-The snake will appear within a few minutes! 🐍
